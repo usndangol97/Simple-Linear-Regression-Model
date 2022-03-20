@@ -20,9 +20,9 @@ Clone this github repository and open the file in any IDE of your choice. Ensuri
 
 <a name="usage"></a>
 ## Library Usage
-Numpy
-Pandas
-Sklearn(train_test_split, LabelEncoder, LinearRegression, r2_score)
+*Numpy
+*Pandas
+*Sklearn(train_test_split, LabelEncoder, LinearRegression, r2_score)
 
 
 <a name="license"></a>
